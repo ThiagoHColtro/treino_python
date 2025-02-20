@@ -1,4 +1,4 @@
-#1st exercise
+#1o exercício
 
 print("Insira um número")
 

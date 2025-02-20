@@ -1,4 +1,4 @@
-#3rd exercise
+#3o exercício
 
 def check(usuario, senha):
     if usuario == "Admisso" and senha == "patinho":

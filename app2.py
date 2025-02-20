@@ -1,4 +1,4 @@
-#2nd exercise
+#2o exercício
 
 print("Insira a sua idade.")
 
