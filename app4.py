@@ -1,7 +1,7 @@
 #4o exercício
 
-x = int(input("Forneça a coordenada longitudinal: "))
-y = int(input("Forneça a coordenada latitudinal: "))
+x = float(input("Forneça a coordenada x: "))
+y = float(input("Forneça a coordenada y: "))
 
 if x > 0 and y > 0:
     print("O ponto se encontra no primeiro quadrante.")
